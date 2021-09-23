@@ -1,0 +1,22 @@
+{
+    "Singers":[
+        {
+            "Name": "Rihanna",
+            "Last name": "Fenty",
+            "Age": "33",
+            "Country": "Barbados"
+        },
+        {
+            "Name": "Dua",
+            "Last name": "Lipa",
+            "Age": "26",
+            "Country": "UK"
+        },
+        {
+            "Name": "Ariana",
+            "Last name": "Grande",
+            "Age": "28",
+            "Country": "USA"
+        }
+    ]
+}
