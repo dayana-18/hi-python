@@ -1,5 +1,17 @@
 import json
-  
+import configparser
+
+file = open('exo.ini', 'r')
+
+def configuration_from_ini(file):
+    parser = configparser.ConfigParser()
+    parser.read_string(data)
+    return configuration_from_dict(parser)
+
+#idk
+
+data = json.load(file)
+
 # the file to be converted to 
 # json format
 filename = 'exo.ini'
