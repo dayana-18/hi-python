@@ -12,7 +12,7 @@ while answer == "yes":
     prog = random.choice(liste)
     print("computer's choice :", prog)
     
-    if ordi == "rock" :
+    if prog == "rock" :
         if user_choice == "paper" :
             print("you won") #gagné
         elif user_choice == "scissors" :
